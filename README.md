@@ -17,6 +17,9 @@ The automation script will perform the following steps:
 
 3. **Enter a Custom Message with Current Epoch Time**
    - Write `"I want to be the best QA Engineer! 1710572021"` in the second text box, where `1710572021` should be dynamically replaced with the current epoch time.
+   - Refernce-
+     How to work with date and time in Java :- https://www.w3schools.com/java/java_date.asp
+     How to convert epoch-time :- https://www.epochconverter.com/#:%7E:text=days%2C%20hours%2C%20minutes-,What%20is%20epoch%20time%3F,-The%20Unix%20epoch
 
 4. **Select Automation Testing Experience**
    - Choose the appropriate radio button indicating your experience in automation testing.
